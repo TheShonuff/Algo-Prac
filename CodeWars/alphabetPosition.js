@@ -14,4 +14,3 @@ function alphabetPosition(text) {
   }
   return result.join(" ");
 }
-console.log("oops");
