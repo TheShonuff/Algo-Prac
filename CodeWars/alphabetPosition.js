@@ -14,3 +14,6 @@ function alphabetPosition(text) {
   }
   return result.join(" ");
 }
+
+const string = "The narwhal bacons at midnight.";
+console.log(alphabetPosition(string));
