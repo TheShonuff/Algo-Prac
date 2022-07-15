@@ -15,4 +15,4 @@ function alphabetPosition(text) {
   return result.join(" ");
 }
 
-//I don't know peace check again
+//this is working on gnome
