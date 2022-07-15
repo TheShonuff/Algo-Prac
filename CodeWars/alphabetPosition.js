@@ -14,5 +14,3 @@ function alphabetPosition(text) {
   }
   return result.join(" ");
 }
-
-//this is working on gnome 22
